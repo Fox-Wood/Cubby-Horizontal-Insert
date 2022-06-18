@@ -1,1 +1,1 @@
-# Cubby-Horizontal-Insert
+# Cubby - Horizontal Insert
